@@ -1,7 +1,7 @@
 {
     "project": {
-        "name": "Crypto y mas", 
-        "category": ["DEX"],
+        "name": "Cripto y mas prueba", 
+        "category": ["DEX", "Bridge", "Earn", "Lending", "Wallet"],
         "logo": "https://criptoymas.es/wp-content/uploads/2023/07/cropped-cripto-y-mas-en-circulo.png",
         "description": "Crypto y mas DEX de PRUEBA",
         "link": "https://criptoymas.es/",
